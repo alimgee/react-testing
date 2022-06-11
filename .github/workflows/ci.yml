@@ -37,7 +37,7 @@ jobs:
     - name: Run component tests 🔸
       run: |
         cd my-app
-        npm test
+        npm test a
     - name: Start the app 📤
       run: |
         cd my-app
